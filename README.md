@@ -8,6 +8,11 @@ reactions_lol.zip
 [reactions_lol.zip](https://github.com/user-attachments/files/20832737/reactions_lol.zip)
 
 
+sticker.svg
+
+![00005200](https://github.com/user-attachments/assets/baa9bb20-1eba-412c-b4c2-0bdf1aa6ba1e)
+
+
 sticker.zip
 
 [sticker.zip](https://github.com/user-attachments/files/20832812/sticker.zip)
